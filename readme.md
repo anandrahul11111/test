@@ -3,8 +3,8 @@
 Assignment of Compiler Design BITS-Pilani M-tech SE
 
 ## Authors
-Rahul Anand 
-Tushar Saraj
+Rahul Anand - 2021HS70030
+Tushar Saraj - 2021HS70029
 
 ## Description
 This repository contains the assignment for Compiler Design in BITS-Pilani M-tech SE program. It includes a compiler implementation made by Rahul Anand and Tushar Saraj.
